@@ -1,6 +1,5 @@
 #### Data Visualization
-
-![Population Visualization](https://github.com/user-attachments/assets/035c46e5-5cff-45bb-af44-9150950cb090)
+##### ![Population Visualization](https://github.com/user-attachments/assets/035c46e5-5cff-45bb-af44-9150950cb090)
 
 #### Project Objective
 The objective of this study is to visualize and analyze the population, its density, and the relationship to life expectancy in the countries currently members of the European Union.
